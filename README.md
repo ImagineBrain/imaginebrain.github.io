@@ -18,8 +18,9 @@ TeXt 是针对博客的一款简洁的主题，它虽然简洁但并不简单。
 
 - 响应式
 - 分页（[jekyll-paginate](https://github.com/jekyll/jekyll-paginate)）
-- 文章目录（[TOC](http://projects.jga.me/toc/)）
+- 文章目录
 - 文章标签
+- 搜索（标题）
 - 阅读次数统计（[LeanCloud](https://leancloud.cn/)）
 - Emoji（[Jemoji](https://github.com/jekyll/jemoji)）
 - 评论（[Disqus](https://disqus.com/), [gitalk](https://gitalk.github.io/)）
