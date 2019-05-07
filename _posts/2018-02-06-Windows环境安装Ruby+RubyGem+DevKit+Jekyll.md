@@ -8,29 +8,27 @@ tags: Ruby+RubyGem+DevKit+Jekyll安装
 
 1. 下载Rubyinstall安装包https://rubyinstaller.org/downloads/，选择对应版本安装<!--more-->
 
-![mark](http://p3pla9n1t.bkt.clouddn.com/blog/180206/eDaHbhG9kb.png-Kuradeon)
-
-​
+![eDaHbhG9kb](img/180206/eDaHbhG9kb.png)
 
 1. 配置环境变量
 
    1. 添加环境变量：RUBY_HOME
 
-   ![mark](http://p3pla9n1t.bkt.clouddn.com/blog/180206/A4hC4K69m1.png-Kuradeon)
+   ![A4hC4K69m1](img/180206/A4hC4K69m1.png)
 
    2. 修改path环境变量，添加地址：
 
-      ![mark](http://p3pla9n1t.bkt.clouddn.com/blog/180206/1eDeF43cI0.png-Kuradeon)
+      ![1eDeF43cI0](img/180206/1eDeF43cI0.png)
 
    3. 测试ruby是否安装成功
 
-      ![mark](http://p3pla9n1t.bkt.clouddn.com/blog/180206/Kgc767922C.png-Kuradeon)
+      ![Kgc767922C](img/180206/Kgc767922C.png)
 
 ## 2.安装RubyGem
 
 一般情况下，安装完RubyInstall后，gem已经安装完毕。
 
-![mark](http://p3pla9n1t.bkt.clouddn.com/blog/180206/G5J6B9chBb.png-Kuradeon)
+![G5J6B9chBb](img/180206/G5J6B9chBb.png)
 
 如果安装失败，可以下载rubygem自行安装https://rubygems.org/pages/download
 
@@ -55,7 +53,7 @@ If you don't have any RubyGems installed, there is still the pre-gem approach to
 
 For more details and other options, see:
 
-```
+```shell
 ruby setup.rb --help
 ```
 
@@ -63,7 +61,7 @@ ruby setup.rb --help
 
 1. 于Ruby网站下载Devkit
 
-   ![mark](http://p3pla9n1t.bkt.clouddn.com/blog/180206/DdC0hhHE9E.png-Kuradeon)
+   ![DdC0hhHE9E](img/180206/DdC0hhHE9E.png)
 
 2. 运行解压后，安装DevKit：
 
@@ -100,13 +98,12 @@ ruby setup.rb --help
 
    1. 配置DEVKIT_HOME
 
-   ![mark](http://p3pla9n1t.bkt.clouddn.com/blog/180206/aKL3dFeCEB.png-Kuradeon)
+   ![aKL3dFeCEB](img/180206/aKL3dFeCEB.png)
 
    2. 添加Path路径
 
-      ![mark](http://p3pla9n1t.bkt.clouddn.com/blog/180206/0hJH7ei0FG.png-Kuradeon)
+      ![0hJH7ei0FG](img/180206/0hJH7ei0FG.png)
 
-   ​
 
 ## 4.安装Jekyll
 
